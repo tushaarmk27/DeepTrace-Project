@@ -1,6 +1,9 @@
 # DeepTrace Project
 
 ## About the Repository
+### TUSHAAR MK
+### 251EC263
+### ECE Branch
 
 Welcome to the DeepTrace Project repository!
 This repository is meant for students to submit their assigned tasks and project work throughout the program. Make sure to follow the instructions carefully and maintain the repository structure while submitting your work.
